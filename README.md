@@ -6,7 +6,7 @@ End results of 'the' Blender Donut Tutorial by Blender Guru: https://www.youtube
 
 
 
-[![Modeling](https://img.youtube.com/vi/YdXWCj4ac23BT77a/0.jpg)](https://www.youtube.com/watch?v=YdXWCj4ac23BT77a)
+[![Modeling Video](https://img.youtube.com/vi/YdXWCj4ac23BT77a/0.jpg)](https://www.youtube.com/watch?v=YdXWCj4ac23BT77a)
 
 
 
