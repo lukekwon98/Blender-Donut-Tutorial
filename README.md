@@ -8,4 +8,7 @@ End results of 'the' Blender Donut Tutorial by Blender Guru: https://www.youtube
 
 
 
+
+
+
 [![영상보기](https://img.youtube.com/vi/bzEsVBucVcs/0.jpg)](https://www.youtube.com/watch?v=bzEsVBucVcs)
